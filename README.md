@@ -109,4 +109,4 @@ Copyright © 2015 Xebia
 Distributed under the [Apache License 2.0](http://http://www.apache.org/licenses/LICENSE-2.0).
 
 ## Fork
-This is a fork of the original GitHub repository to add some configuration properties.
+This is a fork of the original GitHub repository (https://github.com/xebia/VisualReview-protractor) to add some configuration properties and to consume these changes from npm.
